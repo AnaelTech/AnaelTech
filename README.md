@@ -1,6 +1,6 @@
 ![dev junior](https://github.com/AnaelTech/AnaelTech/assets/142304772/c1855f04-0104-4e5e-8389-3592bb12fe7e)
 
- <h1 align="center">Hi 👋, I'm AnaelTech 🇷🇪 </h1>
+ <h1 align="center">Hi 👋, I'm AnaelTech </h1>
 <h3 align="center">A passionate developer junior front/back</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me **anaelpayetpro@gmail.com**
