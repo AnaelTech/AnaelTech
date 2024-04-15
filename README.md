@@ -1,6 +1,7 @@
 ![dev junior](https://github.com/AnaelTech/AnaelTech/assets/142304772/c1855f04-0104-4e5e-8389-3592bb12fe7e)
 ---
 [![](https://visitcount.itsvg.in/api?id=AnaelTech&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 [![commits](https://badgen.net/github/commits/AnaelTech/AnaelTech/main)](https://github.com/AnaelTech/AnaelTech/commits/main?icon=github&color=green)
 
 # Hi 👋, I'm AnaelTech 
@@ -22,5 +23,4 @@
 ![Typecript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 
