@@ -1,8 +1,9 @@
 ![dev junior](https://github.com/AnaelTech/AnaelTech/assets/142304772/c1855f04-0104-4e5e-8389-3592bb12fe7e)
 ---
-[![](https://visitcount.itsvg.in/api?id=AnaelTech&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/AnaelTech?style=for-the-badge&logo=Github&labelColor=green&color=green)
+![GitHub watchers](https://img.shields.io/github/watchers/AnaelTech/AnaelTech?style=for-the-badge&logo=Github&labelColor=0000FF&color=0000FF)
 
-[![commits](https://badgen.net/github/commits/AnaelTech/AnaelTech/main)](https://github.com/AnaelTech/AnaelTech/commits/main?icon=github&color=green)
+
 
 # Hi 👋, I'm AnaelTech 
 ### A passionate developer junior front/back
