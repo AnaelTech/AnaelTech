@@ -1,4 +1,6 @@
 ![dev junior](https://github.com/AnaelTech/AnaelTech/assets/142304772/c1855f04-0104-4e5e-8389-3592bb12fe7e)
+---
+[![](https://visitcount.itsvg.in/api?id=AnaelTech&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # Hi 👋, I'm AnaelTech 
 ### A passionate developer junior front/back
