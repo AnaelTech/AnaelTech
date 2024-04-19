@@ -3,8 +3,7 @@
 ### A passionate developer junior front/back
 📫 How to reach me  **anaelpayetpro@gmail.com**
 
-![GitHub followers](https://img.shields.io/github/followers/AnaelTech?style=for-the-badge&logo=Github&labelColor=green&color=green)
-![GitHub watchers](https://img.shields.io/github/watchers/AnaelTech/AnaelTech?style=for-the-badge&logo=Github&labelColor=0000FF&color=0000FF)
+![GitHub followers](https://img.shields.io/github/followers/AnaelTech?style=for-the-badge&logo=Github&labelColor=#581845&color=#581845)
 ### Languages and Tools:
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
