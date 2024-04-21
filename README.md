@@ -4,7 +4,7 @@
 📫 How to reach me  **anaelpayetpro@gmail.com**
 
 ![GitHub followers](https://img.shields.io/github/followers/AnaelTech?style=for-the-badge&logo=Github&labelColor=#581845&color=#581845)
-### Languages and Tools:
+### Languages and tools that I am currently learning: ###
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
