@@ -31,8 +31,16 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnaelTech&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=AnaelTech&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+ <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaelTech&theme=tokyonight&hide_border=false"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaelTech&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img height="310em" src="https://github-readme-stats.vercel.app/api?username=AnaelTech&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+</div>
+
+ <div align="center">
+<img height="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaelTech&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+ </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
